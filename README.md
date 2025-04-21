@@ -43,12 +43,12 @@ Team name: TENITH RACING
 
 ### GIFs
 
-<img src="assets/raceday_images/video1.gif" width="500">
+<img src="assets/raceday_images/video1.gif" width="900">
 
 Qualificatin trials
 
-<img src="assets/raceday_images/video2.gif">
-A major mistake in the first round of the final
+<img src="assets/raceday_images/video2.gif" width="900">
+A major mistake in the first round of the final (run out of the track)
 
 
 ## Badges
